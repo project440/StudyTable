@@ -33,6 +33,13 @@ p {
   font-family: Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
+
+a {
+  font-size: 2.0rem;
+  color: blue;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
 </style>
 <body>
 <h2>Hi Mero Maya</h2>
@@ -41,6 +48,6 @@ p {
 <marque><h1>Maya Mero Mutu</h1></marque>
 
 <p>I remember as if it were a decade ago so hard without u babe sometimes......</p>
-
+<a href="love.jsp">Click to see my love</a>
 <p>Hey Beautiful you know how pretty you are right not just from the outside but the sweetheart inside you, who has yet not grown up. You are one sweet honey bunny and I love you</p>You know how much I love you right.>
 </html>
